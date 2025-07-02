@@ -4,19 +4,25 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=dracula&locale=en&hide_border=false&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+
+  <!-- Streak stats para mostrar actividad diaria -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezequie1Sc&theme=dracula&hide_border=false" height="160" alt="GitHub Streak" />
 </div>
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" />
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" />
 
 ### 🧠 About Me
-- 🎓 I'm a 6th semester Systems Engineering student.
-- 🚀 I create mobile & web apps using Flutter, React, and Flask.
-- 🧩 I love integrating hardware with software using Arduino & ESP32.
-- 📈 Always learning and improving my skills!
+- 🎓 I'm a 6th semester Systems Engineering student passionate about software and embedded systems.
+- 🚀 Building mobile & web apps using **Flutter**, **React**, and **Flask**.
+- 🤖 Integrating hardware & software with **Arduino** & **ESP32**.
+- 💡 Always curious, learning new technologies, and improving daily.
+- 📚 Currently exploring **Rust**, **Kubernetes**, and **CI/CD pipelines**.
 
 ---
 
@@ -46,6 +52,16 @@
 
 ---
 
+### 🌟 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Smart Greenhouse](https://github.com/Ezequie1Sc/smart-greenhouse) | Automated plant watering and climate control system. | ESP32, Python, Flask |
+| [Lab Inventory App](https://github.com/Ezequie1Sc/lab-inventory-app) | Mobile app to manage chemistry lab supplies and tasks. | Flutter, Firebase |
+| [Portfolio Website](https://github.com/Ezequie1Sc/portfolio) | Personal website showcasing my projects and skills. | React, TypeScript |
+
+---
+
 ### 📫 Contact Me
 
 <div align="left">
@@ -55,9 +71,15 @@
   <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge" height="35" alt="slack logo" />
+  <a href="https://slack.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge" height="35" alt="slack logo" />
+  </a>
 </div>
 
 ---
 
-<!-- <img src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" alt="Snake animation" /> -->
+<!-- Snake animation (activa solo si configuras GitHub Action para generarla) -->
+<!--
+<img src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" alt="Snake animation" />
+-->
+
