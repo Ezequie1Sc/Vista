@@ -1,18 +1,16 @@
-<h1 align="center">Hi there! 👋 I'm <span style="color:#58a6ff;">Ezequiel Salazar</span> 👨‍💻</h1>
+<h1 align="center">Hi there! 👋 I'm <b>Ezequiel Salazar</b> 👨‍💻</h1>
 <h3 align="center">✨ I turn ideas 💡 into real-world digital solutions 💻</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" />
-
-###
 
 ### 🧠 About Me
 - 🎓 I'm a 6th semester Systems Engineering student.
@@ -20,7 +18,7 @@
 - 🧩 I love integrating hardware with software using Arduino & ESP32.
 - 📈 Always learning and improving my skills!
 
-###
+---
 
 ### 🚀 Tech Stack
 
@@ -46,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino" />
 </div>
 
-###
+---
 
 ### 📫 Contact Me
 
@@ -60,10 +58,14 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge" height="35" alt="slack logo" />
 </div>
 
-###
+---
 
-<br clear="both">
+<!--
+Nota sobre el "snake" SVG:
+- Para que se muestre correctamente, debes generar ese archivo snake.svg en tu repositorio
+  (usando una acción de GitHub llamada "GitHub Readme Snake" o similar).
+- Si no quieres usarlo o no tienes configurada esa acción, mejor elimina esta línea para evitar error:
+-->
 
-<!-- Snake contribution animation (opcional, puede no funcionar bien con todos los themes) -->
-<img src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" alt="Snake animation" /> -->
 
