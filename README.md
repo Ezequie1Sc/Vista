@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
@@ -60,12 +60,4 @@
 
 ---
 
-<!--
-Nota sobre el "snake" SVG:
-- Para que se muestre correctamente, debes generar ese archivo snake.svg en tu repositorio
-  (usando una acción de GitHub llamada "GitHub Readme Snake" o similar).
-- Si no quieres usarlo o no tienes configurada esa acción, mejor elimina esta línea para evitar error:
--->
-
 <!-- <img src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" alt="Snake animation" /> -->
-
